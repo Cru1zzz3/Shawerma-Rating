@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+           "coordinates": [60.05389518, 30.32904964]},
+
+        "properties": {
+          "balloonContent": "<a href='https://vk.com'>Ссылочка</a>",
+          "hintContent": "Лучшая Шаверма"},
+
+        "options": {
+                  "preset": "islands#violetDotIcon"
+                }
+    },
+    {
+      "type": "Feature",
+      "geometry":{
+        "type" : "Point",
+        "coordinates": [60.05345705, 30.32904572]},
+      "properties": {
+        "balloonContent": "Шаверма Кинг",
+        "hintContent": "Шаверма Кинг"
+      },
+      "options": {
+        "preset": "islands#violetDotIcon"
+      }
+    }
+  ]
+}
+/*
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [59.92946121, 30.29653936]},
+
+      "properties": {
+        "balloonContent": "БМ",
+        "hintContent": "БМ"},
+
+      "options": {
+        "preset": "islands#violetDotIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry":{
+        "type" : "Point",
+        "coordinates": [60.05345705, 30.32904572]},
+      "properties": {
+        "balloonContent": "Шаверма Кинг",
+        "hintContent": "Шаверма Кинг"
+      },
+      "options": {
+        "preset": "islands#violetDotIcon"
+      }
+    },
+    {
+       "type": "Feature",
+       "geometry":{
+         "type" : "Point",
+         "coordinates": [60.04675801, 30.32483625]},
+       "properties": {
+          "balloonContent": "Школа №463",
+          "hintContent": "Школа №463"
+       },
+        "options": {
+          "preset": "islands#violetDotIcon"
+       }
+    },
+    {
+      "type": "Feature",
+      "geometry":{
+        "type" : "Point",
+        "coordinates": [60.05044360, 30.32744901]},
+      "properties": {
+        "balloonContent": "Бассейн Газпром",
+        "hintContent": "Бассейн Газпром"
+      },
+      "options": {
+        "preset": "islands#violetDotIcon"
+      }
+    }
+  ]
+}
+
