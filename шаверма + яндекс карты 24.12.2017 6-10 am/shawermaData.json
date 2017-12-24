@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+           "coordinates": [60.05389518, 30.32904964]},
+
+        "properties": {
+          "balloonContent": "<a href='https://vk.com'>Ссылочка</a>",
+          "hintContent": "Лучшая Шаверма"},
+
+        "options": {
+                  "preset": "islands#violetDotIcon"
+                }
+    },
+    {
+       "type": "Feature",
+       "geometry":{
+         "type" : "Point",
+         "coordinates": [60.04675801, 30.32483625]},
+       "properties": {
+          "balloonContent": "Школа №463",
+          "hintContent": "Школа №463"
+       },
+        "options": {
+          "preset": "islands#violetDotIcon"
+       }
+    }
+  ]
+}
+
